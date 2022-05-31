@@ -1,4 +1,4 @@
-## 👋 Hi, I'm christian
+## 👋 Hi, I'm Christian
 
 ## Stacks
 
