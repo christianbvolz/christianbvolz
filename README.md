@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Christian
 
-## Stacks
+## My skills
 
 <div style="display: inline_block" align="center"><br>
   <h3>Frontend</h3>
