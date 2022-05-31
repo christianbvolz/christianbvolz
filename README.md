@@ -1,11 +1,4 @@
-- 👋 Hi, I’m @christianbvolz
-
-## Github Stats
-<div align="center">
-  <a href="https://github.com/christianbvolz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=christianbvolz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianbvolz&layout=compact&langs_count=3&theme=radical"/>
-</div>
+## 👋 Hi, I'm christian
 
 ## Stacks
 
@@ -23,9 +16,18 @@
   <img  alt="docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img  alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img  alt="nodejs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img  alt="express" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img  alt="ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img  alt="mongo" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img  alt="heroku" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img  alt="mocha" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+</div>
+
+## Github Stats
+<div align="center">
+  <a href="https://github.com/christianbvolz">
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=christianbvolz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianbvolz&layout=compact&langs_count=3&theme=radical"/>
 </div>
   
 ## Contacts
