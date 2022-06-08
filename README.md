@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Christian
-
+  I'm a full-stack developer, passionate about technology and games, I love to be always studying and learning more and more, and I also really like to share my knowledge to help other people.
 ## My skills
 
 <div style="display: inline_block" align="center"><br>
