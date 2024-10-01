@@ -1,6 +1,16 @@
-## 👋 Hi, I'm Christian
-  I'm a full-stack developer, passionate about technology and games, I love to be always studying and learning more and more, and I also really like to share my knowledge to help other people.
-## My skills
+## 👋 Oi, meu nome é Christian
+  Sou um desenvolvedor fullstack, apaixonado por tecnologia e jogos, adoro estar sempre estudando e aprendendo cada vez mais, e também gosto muito de compartilhar meu conhecimento ajudando outras pessoas. Experiência em desenvolvimento ágil, utilizando metodologias como Scrum e Kanban.
+
+Front-end:
+- Criação de interfaces de usuário dinâmicas e otimizadas com React.js e TypeScript.
+- Experiência com Redux e Context API para gerenciar o estado de forma eficiente em aplicações complexas.
+- Dominio em CSS e uso de frameworks como Tailwind CSS e Styled Components para criar layouts responsivos e esteticamente agradáveis.
+- Implementação de testes unitários e de integração no front-end utilizando React Testing Library.
+
+Back-end:
+- Desenvolvimento de APIs REST escaláveis e eficientes, utilizando Node.js, ExpressJs, Sequelize e TypeScript.
+- Modelagem e manipulação de bancos de dados relacionais e nâo relacionais (MySQL e MongoDB) de forma organizada e eficiente.
+- Criação de testes unitáros e de integração no back-end para garantir a correta funcionalidade das APIs Utilizando Mocha, Chai e Sinon.
 
 <div style="display: inline_block" align="center"><br>
   <h3>Frontend</h3>
@@ -30,7 +40,7 @@
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianbvolz&layout=compact&langs_count=3&theme=radical"/>
 </div>
   
-## Contacts
+## Contatos
 <div>
   <a href = "https://api.whatsapp.com/send?phone=5553981029911"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href = "mailto:christianbvolz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
