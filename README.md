@@ -9,7 +9,7 @@ Front-end:
 
 Back-end:
 - Desenvolvimento de APIs REST escaláveis e eficientes, utilizando Node.js, ExpressJs, Sequelize e TypeScript.
-- Modelagem e manipulação de bancos de dados relacionais e nâo relacionais (MySQL e MongoDB) de forma organizada e eficiente.
+- Modelagem e manipulação de bancos de dados relacionais e nâo relacionais (MySQL e MongoDB) de forma organizada e eficiente com uso de ORM como Sequelize e Moongose.
 - Criação de testes unitáros e de integração no back-end para garantir a correta funcionalidade das APIs Utilizando Mocha, Chai e Sinon.
 
 <div style="display: inline_block" align="center"><br>
