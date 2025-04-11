@@ -8,9 +8,9 @@ Front-end:
 - Implementação de testes unitários e de integração no front-end utilizando React Testing Library.
 
 Back-end:
-- Desenvolvimento de APIs REST escaláveis e eficientes, utilizando Node.js, ExpressJs, Sequelize e TypeScript.
-- Modelagem e manipulação de bancos de dados relacionais e nâo relacionais (MySQL e MongoDB) de forma organizada e eficiente com uso de ORM como Sequelize e Mongoose.
-- Criação de testes unitáros e de integração no back-end para garantir a correta funcionalidade das APIs Utilizando Mocha, Chai e Sinon.
+- Desenvolvimento de APIs REST com Node.js, TypeScript, Adonis.js, ASP.NET Core;
+- Modelagem e manipulação de bancos de dados(MySQL/MongoDB/SQL Server) de forma organizada e eficiente com uso de ORM(Sequelize/Mongoose/Lucid);
+- Criação de testes unitáros e de integração no back-end para garantir a correta funcionalidade das APIs Utilizando jest, Mocha, Chai e Sinon.
 
 <div style="display: inline_block" align="center"><br>
   <h3>Frontend</h3>
