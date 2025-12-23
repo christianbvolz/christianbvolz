@@ -1,50 +1,55 @@
-## 👋 Oi, meu nome é Christian
-  Sou um desenvolvedor fullstack, apaixonado por tecnologia e jogos, adoro estar sempre estudando e aprendendo cada vez mais, e também gosto muito de compartilhar meu conhecimento ajudando outras pessoas. Experiência em desenvolvimento ágil, utilizando metodologias como Scrum e Kanban.
+# Olá, eu sou o Christian Völz 👋
 
-Front-end:
-- Criação de interfaces de usuário dinâmicas e otimizadas com React.js e TypeScript.
-- Experiência com Redux e Context API para gerenciar o estado de forma eficiente em aplicações complexas.
-- Dominio em CSS e uso de frameworks como Tailwind CSS e Styled Components para criar layouts responsivos e esteticamente agradáveis.
-- Implementação de testes unitários e de integração no front-end utilizando React Testing Library.
+**Desenvolvedor Full Stack**
 
-Back-end:
-- Desenvolvimento de APIs REST com Node.js, TypeScript, Adonis.js, ASP.NET Core;
-- Modelagem e manipulação de bancos de dados(MySQL/MongoDB/SQL Server) de forma organizada e eficiente com uso de ORM(Sequelize/Mongoose/Lucid);
-- Criação de testes unitáros e de integração no back-end para garantir a correta funcionalidade das APIs Utilizando jest, Mocha, Chai e Sinon.
+Sou um desenvolvedor apaixonado por transformar lógica complexa em soluções digitais eficientes. Minha trajetória é marcada por uma transição estratégica da **Matemática** para a tecnologia, o que me confere um perfil analítico apurado para a resolução de problemas e otimização de sistemas.
 
-<div style="display: inline_block" align="center"><br>
-  <h3>Frontend</h3>
-  <img  alt="js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img  alt="html" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img  alt="css" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img  alt="react" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img  alt="redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img  alt="jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div>
-<div style="display: inline_block" align="center"><br>
-  <h3>Backend</h3>
-  <img  alt="docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img  alt="mysql" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img  alt="nodejs" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img  alt="express" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img  alt="ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img  alt="mongo" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img  alt="heroku" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
-  <img  alt="mocha" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
-</div>
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (Gran Centro Universitário).
+- 🚀 Formado em **Desenvolvimento Web Full Stack** pela Trybe (1.500+ horas).
+- 🛠️ Experiência prática no desenvolvimento de APIs RESTful escaláveis e sistemas de integração.
 
-## Github Stats
-<div align="center">
-  <a href="https://github.com/christianbvolz">
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=christianbvolz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christianbvolz&layout=compact&langs_count=3&theme=radical"/>
-</div>
-  
-## Contatos
-<div>
-  <a href = "https://api.whatsapp.com/send?phone=5553981029911"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:christianbvolz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/christian-berny-volz-77a484214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-   ![Snake animation](https://github.com/christianbvolz/christianbvolz/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+#### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+#### **Banco de Dados & Ferramentas**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📂 Projetos em Destaque
+
+* **[Pet Hub API](https://github.com/christianbvolz/PetHub-Backend):** Plataforma de adoção construída com C# e .NET Core, utilizando Entity Framework para modelagem de dados robusta.
+* **[Delivery App](https://github.com/christianbvolz/Project-Delivery-App):** Aplicação Full Stack completa integrando React/Redux e Node.js (JWT/Sequelize), com foco em segurança e performance.
+* **[Recipes App](https://github.com/christianbvolz/project-recipes-app):** Mobile-first app de receitas focado em UX, utilizando React Hooks e Context API para gerenciamento de estado global.
+* **[Sales API](https://github.com/christianbvolz/Sales-API):** Sistema de cadastro de vendas desenvolvido com TypeScript e AdonisJS, explorando alta tipagem e escalabilidade.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christianbvolz&layout=compact&theme=dracula)](https://github.com/christianbvolz)
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-berny-volz/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianbvolz@gmail.com)
